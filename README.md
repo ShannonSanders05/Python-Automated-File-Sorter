@@ -1,4 +1,4 @@
-# Project Title: Python-Automated-File-Sorter
+## Project Title: Python-Automated-File-Sorter
 
 **Description**:
 
