@@ -6,3 +6,5 @@ In this Python project, I developed an automated file sorter to streamline the o
 
 1. **File Recognition**: Implemented a script to automatically identify various file types within a designated folder.
 2. **Sorting Algorithm**: Created an efficient sorting algorithm that categorizes files based on their types, such as documents, images, and videos.
+
+Special thanks to Alex the Analyst for his mentorship and guidance.
